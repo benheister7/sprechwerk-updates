@@ -2,10 +2,9 @@
   "updated": "2026-10-22",
   "items": [
     {"status": "In Arbeit", "title": "Störgeräusche-Filter als Standard", "text": "Apples Sprachisolierung ist eingebaut (Einstellungen › Diktat). Nach dem Praxistest wird sie für alle eingeschaltet."},
-    {"status": "Geplant", "title": "Ideen vom iPhone auf dem Mac", "text": "Was du unterwegs festhältst, landet automatisch im Notizblock auf dem Mac – über iCloud, sobald das Entwicklerkonto freigeschaltet ist."},
-    {"status": "Geplant", "title": "Mehrere Sprecher im Call trennen", "text": "Bei Calls mit mehreren Gesprächspartnern jede Stimme einzeln benennen statt „Andere“."},
-    {"status": "Idee", "title": "Diktieren in jeder iPhone-App", "text": "Eine eigene Tastatur, die kurz in Sprechwerk springt, aufnimmt und den Text zurückbringt (Apple erlaubt Tastaturen kein eigenes Mikrofon)."},
-    {"status": "Idee", "title": "Feedback direkt aus der App", "text": "Wünsche und Fehler mit einem Klick melden."},
-    {"status": "Idee", "title": "Weitere Sprachen", "text": "Neben Deutsch und Englisch zum Beispiel Türkisch, Spanisch oder Französisch."}
+    {"status": "In Arbeit", "title": "Mehrere Sprecher im Call trennen", "text": "Als Test eingebaut (Einstellungen › Meetings). Ziel: jede Stimme zuverlässig einzeln benennen statt „Andere“."},
+    {"status": "Geplant", "title": "Diktieren in jeder iPhone-App", "text": "Eine eigene Tastatur, die kurz in Sprechwerk springt, aufnimmt und den Text zurückbringt (Apple erlaubt Tastaturen kein eigenes Mikrofon)."},
+    {"status": "Geplant", "title": "Feedback direkt aus der App", "text": "Wünsche und Fehler mit einem Klick melden."},
+    {"status": "Idee", "title": "Notizen zurück aufs iPhone", "text": "Notizen vom Mac auch unterwegs lesen – der Abgleich übers WLAN in beide Richtungen."}
   ]
 }
