@@ -1,10 +1,30 @@
 {
   "updated": "2026-10-22",
   "items": [
-    {"status": "In Arbeit", "title": "Störgeräusche-Filter als Standard", "text": "Apples Sprachisolierung ist eingebaut (Einstellungen › Diktat). Nach dem Praxistest wird sie für alle eingeschaltet."},
-    {"status": "In Arbeit", "title": "Mehrere Sprecher im Call trennen", "text": "Als Test eingebaut (Einstellungen › Meetings). Ziel: jede Stimme zuverlässig einzeln benennen statt „Andere“."},
-    {"status": "Geplant", "title": "Diktieren in jeder iPhone-App", "text": "Eine eigene Tastatur, die kurz in Sprechwerk springt, aufnimmt und den Text zurückbringt (Apple erlaubt Tastaturen kein eigenes Mikrofon)."},
-    {"status": "Geplant", "title": "Feedback direkt aus der App", "text": "Wünsche und Fehler mit einem Klick melden."},
-    {"status": "Idee", "title": "Notizen zurück aufs iPhone", "text": "Notizen vom Mac auch unterwegs lesen – der Abgleich übers WLAN in beide Richtungen."}
+    {
+      "status": "In Arbeit",
+      "title": "Störgeräusche-Filter als Standard",
+      "text": "Apples Sprachisolierung ist eingebaut (Einstellungen › Diktat). Nach dem Praxistest wird sie für alle eingeschaltet."
+    },
+    {
+      "status": "In Arbeit",
+      "title": "Mehrere Sprecher im Call trennen",
+      "text": "Als Test eingebaut (Einstellungen › Meetings). Ziel: jede Stimme zuverlässig einzeln benennen statt „Andere“."
+    },
+    {
+      "status": "In Arbeit",
+      "title": "Diktieren in jeder iPhone-App",
+      "text": "Die Sprechwerk-Tastatur ist da (Test): Mikrofon antippen, Sprechwerk öffnet kurz das Mikrofon, danach diktierst du direkt in jeder App."
+    },
+    {
+      "status": "Geplant",
+      "title": "Feedback direkt aus der App",
+      "text": "Wünsche und Fehler mit einem Klick melden."
+    },
+    {
+      "status": "Idee",
+      "title": "Notizen zurück aufs iPhone",
+      "text": "Notizen vom Mac auch unterwegs lesen – der Abgleich übers WLAN in beide Richtungen."
+    }
   ]
 }
